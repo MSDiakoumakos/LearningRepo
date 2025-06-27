@@ -1,0 +1,11 @@
+x=10
+y=4
+print("x=",x)
+print("y=",y)
+print("x+y=",x+y)
+print("x-y=",x-y)
+print("x*y=",x*y)
+print("x/y=",x/y) 
+print("x%y=",x%y) #mod
+print("x**y=",x**y) #power
+print("x//y=",x//y) #floor division
