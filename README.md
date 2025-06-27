@@ -18,6 +18,7 @@ Push changes
 Branches
 Branches are used for versioning control.
 * git checkout -b branchName: Create a new local branch with name branchName
+* git push --set-upstream origin branchName: Sets up the new branch on github after using the above command to create one
 * git checkout branchName: Changes to a branch named branchName
 * git branch -d branchName: Delets a branch
 * git merge branchName: Merges the branchName to current branch
